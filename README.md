@@ -3,8 +3,6 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/levi__estevao) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-estev%C3%A3o-a6934a304/)
 
-![Levi Estevão GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviEstevaum&show_icons=true&theme=dracula)
-<br>
 
 📚 Sou um Estudante de Ciência da Computação
 
